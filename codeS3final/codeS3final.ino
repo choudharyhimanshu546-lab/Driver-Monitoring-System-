@@ -3,15 +3,15 @@
 #include <Adafruit_NeoPixel.h>
 
 /* WIFI */
-const char* ssid = "Jio Pickkup";
-const char* password = "pickkup@123";
+const char* ssid = "*******";
+const char* password = "*********";
 
 /* API */
-const char* server = "http://192.168.31.134:3001/api/device/attendance";
+const char* server = "ADD API";
 
 /* DEVICE AUTH */
-String deviceId = "DEV_1774958931176";
-String secret   = "43d716917b53386dae6779ff3a168c48afa0f76caa60603dfe320ffea5618b13";
+String deviceId = "***********";
+String secret   = "************";
 
 /* MQ3 SENSOR */
 #define MQ3_PIN 4
